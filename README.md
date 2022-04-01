@@ -1,6 +1,6 @@
 # DL-Project
 
-### Ground-aware Monocular 3D Object Detection for Autonomous Driving
+## Ground-aware Monocular 3D Object Detection for Autonomous Driving
 
 
 ##### Anant Mittal (AI21MTECH14005)
